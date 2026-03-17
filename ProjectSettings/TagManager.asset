@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background
+  - Waggon
+  - Obstacle
+  - Track
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Light
+    uniqueID: 1981197953
+    locked: 0
+  - name: Obstacle 1
+    uniqueID: 91843755
+    locked: 0
+  - name: Train
+    uniqueID: 505009251
+    locked: 0
+  - name: Obstacle 2
+    uniqueID: 1023110553
+    locked: 0
