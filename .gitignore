@@ -5,11 +5,15 @@
 [Ll]ogs/
 UserSettings/
 MemoryCaptures/
+!Assets/**/*.cs
 !Assets/**/*.meta
+!Packages/manifest.json
+!ProjectSettings/**
 .vs/
 .vscode/
 .idea/
 .gradle/
+.vsconfig
 *.csproj
 *.unityproj
 *.sln
@@ -19,7 +23,6 @@ MemoryCaptures/
 *.userprefs
 *.pidb
 *.booproj
-.vsconfig
 .DS_Store
 Thumbs.db
 *.apk
