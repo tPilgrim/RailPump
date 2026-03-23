@@ -1,6 +1,5 @@
 # 🚄 Rail Pump - 2D Endless Runner
 
-## 📖 Overview
 **Rail Pump** is a fast-paced 2D endless runner set in a neon-lit cyberpunk metropolis. Players ride high-speed rails suspended above the city, dodging obstacles and switching tracks to survive as long as possible.
 
 <p float="left">
